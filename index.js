@@ -1,0 +1,1 @@
+export { isUserAgent } from './lib/isUserAgent';
